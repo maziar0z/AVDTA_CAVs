@@ -1,0 +1,9 @@
+id	type	longitude	latitude	elevation
+1001	1000	0	0	0
+1002	1000	0	0	0
+101	100	0	0	0
+102	800	0	0	0
+
+
+
+

@@ -1,0 +1,4 @@
+key	value
+name	LTMTrial
+seed	36932
+type	DTA
