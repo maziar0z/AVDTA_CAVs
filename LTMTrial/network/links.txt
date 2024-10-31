@@ -1,5 +1,0 @@
-id	type    source  dest	length (ft)	ffspd (mph)	w (mph)	capacity        num_lanes
-1   206 1001    101	2640	30	15	2000	1
-2	206	101	102	2640	30	15	2000	2
-3	206	102	1002	2640	30	15	2000	1
-
